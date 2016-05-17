@@ -1,12 +1,12 @@
 
 {
 	"name": "fs-one-promise-queue",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"engines": {
 		"node": ">=6.0.0"
 	},
 	"dependencies": {
-		"promise-queue": "ksxnodemodules/promise-queue#v0.0.0"
+		"promise-queue": "ksxnodemodules/promise-queue#v1.0.0"
 	},
 	"main": "index.js"
 }
